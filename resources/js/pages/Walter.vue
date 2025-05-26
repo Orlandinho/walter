@@ -35,7 +35,7 @@ const instruments = [
     <div class="flex min-h-screen flex-col items-center bg-[#FDFDFC] p-6 text-[#1b1b18] lg:justify-center lg:p-8">
         <header class="mb-6 w-full max-w-[335px] text-center text-gray-800 text-2xl lg:max-w-4xl">
             <div class="mb-4">Instrumentos Disponíveis</div>
-            <div class="text-base mb-4">Havendo interesse favor entrar em contato nesse número: </div>
+            <div class="text-base mb-4">Havendo interesse favor entrar em contato nesse número (WhatsApp): (11) 94975-0559</div>
             <div class="text-sm">Clique nas imagens para ver mais imagens </div>
         </header>
         <div class="duration-750 starting:opacity-0 flex w-full items-center justify-center opacity-100 transition-opacity lg:grow">
