@@ -18,7 +18,7 @@ const instruments = [
 </script>
 
 <template>
-    <Head title="Instrumentos do Walter" />
+    <Head title="Baixo Giannini" />
 
     <div class="flex min-h-screen flex-col items-center bg-[#FDFDFC] p-6 text-[#1b1b18] lg:justify-center lg:p-8">
         <header class="mb-6 w-full max-w-[335px] text-center text-gray-800 text-2xl lg:max-w-4xl">
