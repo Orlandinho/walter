@@ -1,9 +1,12 @@
 <?php
 
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
 Route::get('/', function () {
+    Artisan::call('storage:link');
+    sleep(0.5);
     return Inertia::render('Walter');
 })->name('home');
 
